@@ -1,0 +1,5 @@
+---
+title: "Recently in my life"
+listing:
+  contents: posts
+---

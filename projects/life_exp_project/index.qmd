@@ -1,0 +1,12 @@
+---
+title: "Predicting Life Expectancy: The Effect of Economic Indicators"
+description: "Modeling economic indicators' impact in life expectancy from 2000-2015"
+image: featured.png
+image-alt: quizgrader logo
+categories:
+  - Research
+  - Statistical Modeling
+about:
+  template: solana
+  image: featured.png
+---

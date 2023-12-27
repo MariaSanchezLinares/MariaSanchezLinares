@@ -1,0 +1,33 @@
+project:
+  type: website
+  output-dir: docs #puts all html files in forlder called docs 
+
+website:
+  title: "Maria Celeste Sanchez Linares"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: projects.qmd
+        text: Projects
+      - href: CV.qmd
+        text: CV
+      - href: posts.qmd
+        text: Blog Posts
+        
+  page-footer:
+    left: |
+      &copy; Maria Sanchez Linares, 2023<br>
+      All content licensed under <i class='bi-badge-cc'></i>
+      [(CC BY-NC-SA 4.0)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+    right: |
+      Site built with <a href='https://quarto.org/'>Quarto</a>
+
+format:
+  html:
+    theme: journal
+    css: styles.css
+    toc: true
+
+editor: visual
+

@@ -1,0 +1,12 @@
+---
+title: "Predicting AirBnb Prices in NYC"
+description: "Using Machine Learning tools to uncover the underlying factors that dictate listing prices"
+image: featured.png
+image-alt: quizgrader logo
+categories:
+  - Research
+  - Machine Learning
+about:
+  template: solana
+  image: featured.png
+---

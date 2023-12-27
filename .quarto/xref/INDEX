@@ -1,0 +1,50 @@
+{
+  "index.qmd": {
+    "index.html": "4af5aa32"
+  },
+  "about.qmd": {
+    "about.html": "5b1c3cf7"
+  },
+  "projects.qmd": {
+    "projects.html": "31dddc6a"
+  },
+  "projects/project 1/index.qmd": {
+    "index.html": "aeb22d3c"
+  },
+  "CV.qmd": {
+    "CV.html": "0b88d672"
+  },
+  "projects/project 2/index.qmd": {
+    "index.html": "11a0a853"
+  },
+  "projects/airbnb_machine_learning/index.qmd": {
+    "index.html": "290578a8"
+  },
+  "projects/life_exp_project/index.qmd": {
+    "index.html": "25de6430"
+  },
+  "projects/airbnb_project/index.qmd": {
+    "index.html": "3253df1f"
+  },
+  "projects/dja_project/index.qmd": {
+    "index.html": "9319404f"
+  },
+  "blog_posts.qmd": {
+    "blog_posts.html": "8a2bc08d"
+  },
+  "posts.qmd": {
+    "posts.html": "56288bc9"
+  },
+  "posts/afrolatino_week/index.qmd": {
+    "index.html": "94fca374"
+  },
+  "posts/fed_conference/index.qmd": {
+    "index.html": "66d12c72"
+  },
+  "posts/starr_hill/index.qmd": {
+    "index.html": "d9952d11"
+  },
+  "projects/predoc_project/index.qmd": {
+    "index.html": "b21286e7"
+  }
+}

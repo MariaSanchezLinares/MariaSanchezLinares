@@ -1,0 +1,20 @@
+project:
+  type: website
+  output-dir: docs #puts all html file in forlder called docs 
+
+website:
+  title: "Maria Celeste Sanchez Linares"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - projects.qmd
+
+format:
+  html:
+    theme: cerulean
+    css: styles.css
+    toc: true
+
+editor: visual
+

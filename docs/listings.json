@@ -1,0 +1,20 @@
+[
+  {
+    "listing": "/projects.html",
+    "items": [
+      "/projects/airbnb_project/index.html",
+      "/projects/dja_project/index.html",
+      "/projects/airbnb_machine_learning/index.html",
+      "/projects/life_exp_project/index.html",
+      "/projects/predoc_project/index.html"
+    ]
+  },
+  {
+    "listing": "/posts.html",
+    "items": [
+      "/posts/afrolatino_week/index.html",
+      "/posts/fed_conference/index.html",
+      "/posts/starr_hill/index.html"
+    ]
+  }
+]

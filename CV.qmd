@@ -1,0 +1,59 @@
+---
+title: "CV"
+about:
+  template: solana
+---
+
+## Education
+
+  **Macalester College** \| St. Paul, MN <br> B.A. in Data Science and Economics \| Sept 2021 - May 2025 <br> GPA: 3.6
+  <br>
+  <br> **Universidad de Málaga** \| Málaga, Spain <br> ISEP Study Abroad Program \| Spring 2024
+
+**Coursework:** Intermediate Data Science, Machine Learning, Statistical Modeling, Object-Oriented Programming & Abstraction, Intermediate Microeconomics, Environmental Economics & Policy, Financial Accounting, and Linear Algebra.
+
+## Experience
+-   **Using Data to Solve Economic Problem** \| PREDOC & Opportunity Insights 
+    <br> *Student Intern \| Summer 2023*
+    <br> — Conducted an empirical research project as part of the PREDOC program, under the guidance of Prof. Bruich from the Harvard University Department of Economics, participating in classes and weekly advisory meetings.
+    <br> — Used STATA to manipulate large datasets, designed and analyzed multiple empirical models through qualitative research and statistical modeling techniques, deriving meaningful insights into the effects of highway proximity on social mobility.
+    <br> — Summarized results through a written report, various plots, tables, and graphs.
+    <br> — Chosen as one of the 5 best students out of 50 to present my research findings at a conference hosted by the Federal Reserve Board of Governors.
+
+-   **Data Justice Academy** \| University of Virginia School of Data Science
+    <br> *Research Fellow \| Summer 2023*
+    <br> — Conducted qualitative, quantitative and historical research on transgender people health disparities.
+    <br> — Analyzed different data collection methods and developed a comprehensive literature review on the invisibility and misrepresentation of transgender people in official statistics.
+    <br> — Employed R tools to curate a list of all federally supported survey data and created dynamic data visualizations displaying the proportion of surveys collecting specific information across different SOGI areas. 
+
+    
+-   **Undergraduate Teacher Assistantship** \| Macalester College
+    <br> *Student Preceptor \| Spring 2023 — Fall 2023*
+    <br> Introduction to Data Science and Financial Accounting Preceptor
+    <br> — Facilitate learning by assisting students to meet personal and course objectives through weekly office hours for three Intro to Data Science and two Financial Accounting sections.
+    <br> — Grade and provide feedback to over 60 students on a weekly basis.
+
+## Leadership & Civic Engagement
+
+-   **Adelante! Latinx Student Organization** \| Macalester College 
+    <br> *President & Treasurer \| August 2021 — Present*
+    <br> — Organized and executed numerous events, including cultural celebrations, panel discussions, and workshops, attracting a thriving membership base of over 80 students.
+    <br> — Procured Racial Justice Project Fund $5,000 grant to hold workshops and a photo exhibition on Afro-Latinx experiences for the advancement of racial justice at Macalester College.
+    <br> — Collaborated with other student organizations to create culturally diverse events, promoting cross-cultural understanding and cooperation and building community.
+    
+-   **Starr Hill Pathways** \| Macalester College 
+    <br> *Student Mentor \| Summer 2023*
+    <br> — Provided guidance and support to 30 middle school students during Intro to Sport Analytics workshops at a career exploration program that seeks to address the lack of diversity in STEM Careers.
+    <br> — Expanded the program's curriculum to incorporate the achievements and perspectives of female athletes, enriching the students' educational experience through the design of a new workshop.
+    
+## Skills
+
+-   **Languages:** Spanish (native speaker), English (fluent) 
+
+-   **Programming Languages:** R, Python, Java, Stata.
+
+-   **Software & Tools:** Microsoft Excel, Microsoft PowerPoint, Google Suit, Tableau, Canva, EMS.
+
+<br>
+<br>
+<i class='bi-download'></i> Download my CV <a href="https://drive.google.com/file/d/1WQp0ybimR-SQ8JRpLbyMeK6f044Ac5o6/view?usp=sharing" target="_blank">[Here]</a>.
