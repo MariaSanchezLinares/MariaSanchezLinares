@@ -46,5 +46,8 @@
   },
   "projects/predoc_project/index.qmd": {
     "index.html": "b21286e7"
+  },
+  "projects/airbnb_machine_learning/airbnb_machine.qmd": {
+    "airbnb_machine.html": "156e6ae1"
   }
 }
