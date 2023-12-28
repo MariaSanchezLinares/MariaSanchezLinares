@@ -49,5 +49,17 @@
   },
   "projects/airbnb_machine_learning/airbnb_machine.qmd": {
     "airbnb_machine.html": "156e6ae1"
+  },
+  "projects/airbnb_project/airbnb_europe.qmd": {
+    "airbnb_europe.html": "9cbd97fd"
+  },
+  "projects/dja_project/dja.qmd": {
+    "dja.html": "aee26499"
+  },
+  "projects/life_exp_project/life_exp.qmd": {
+    "life_exp.html": "d77aed5e"
+  },
+  "projects/predoc_project/predoc.qmd": {
+    "predoc.html": "959b9286"
   }
 }
