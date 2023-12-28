@@ -10,3 +10,18 @@ about:
   template: solana
   image: featured.png
 ---
+
+In this study, my aim was to delve into the intricate relationship between economic indicators and life expectancy, questioning the adequacy of conventional country classifications. Life Expectancy (LE) isn't just a measure of healthcare quality; it's a multifaceted indicator reflecting a nation's economic, social, and environmental status.
+
+Using WHO and UN data, I discovered a positive correlation between a country's Income Composition of Resources (ICOR) and life expectancy. Even a small increase in ICOR was associated with a notable rise in life expectancy, challenging the simplistic "developed" versus "developing" country categories.
+
+This study highlights the limitations of relying solely on economic indicators. While developed nations generally exhibit higher life expectancies, some developing countries effectively utilize resources to surpass global life expectancy averages.
+
+It emphasizes the need for a comprehensive approach, integrating social, cultural, and political factors alongside economic indicators to grasp life expectancy determinants fully. This work opens pathways for future exploration, urging a broader analysis of non-economic influences and resource utilization for a deeper understanding of global life expectancy dynamics.
+
+
+
+
+**Products**
+
+- [Report](https://drive.google.com/file/d/1mWXcE1_hGBsGitnwTNrQbONUXe2KXV9X/view?usp=sharing)

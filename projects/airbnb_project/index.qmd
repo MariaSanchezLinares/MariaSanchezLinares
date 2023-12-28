@@ -11,3 +11,18 @@ about:
   image: featured.png
 ---
 
+<br> **From Data To Destinations: Visual Analysis of European Airbnbs**
+<br> In this data science Research Project project we aimed to study study European Airbnb Listings using a sample of 10 major cities. For this purpose, we created a Shiny App that allows the user to interact with a series of data visualizations that explore what are the factors correlated with *price* and *guest satisfaction* in European Airbnb listings.
+
+<br> For further research, I am working on developing a model than can predict the prices for new listing (out of sample data) based on the features inputted by the user. 
+
+<br> **About the Data**
+<br> Data collection occurred approximately four to six weeks before the planned travel dates. Moreover, the collected prices encompass the total amount required for the accommodation, inclusive of reservation fees and cleaning fees for two nights.
+<br> Source: Khemani, D. (2023, March 25). [Airbnb cleaned Europe dataset](https://www.kaggle.com/datasets/dipeshkhemani/airbnb-cleaned-europe-dataset/). Kaggle. Source: Khemani, D. (2023, March 25). Airbnb cleaned Europe dataset. Kaggle.
+
+
+
+
+**Products**
+
+- [ShinyApp](https://mariasanchezlinares.shinyapps.io/EuropeanAirbnb/)

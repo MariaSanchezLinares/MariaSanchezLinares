@@ -10,3 +10,18 @@ about:
   template: solana
   image: featured.png
 ---
+
+In the heart of the bustling metropolis that is New York City, a dynamic marketplace of AirBnb listings unfolds, offering a plethora of accommodations to travelers from all corners of the globe. From snug apartments in the heart of Manhattan to expansive lofts in Brooklyn, these listings not only span the spectrum in terms of location but also come with a rich array of features and amenities. I embark on a statistical exploration to uncover the underlying factors that dictate the price of these listings. This study revolved around two pivotal questions:
+
+- **Predicting Airbnb Listing Prices:** Can we forecast the price of an AirBnb listing based on its
+features?
+
+- **The Anatomy of Price Differences:** What are the discerning characteristics that elevate some
+listings to a higher price bracket than others?
+
+
+
+
+**Products**
+
+- [Report](https://drive.google.com/file/d/1w_VnSB8WnJkChu8bEewW_M87DKTRCNiy/view?usp=sharing)

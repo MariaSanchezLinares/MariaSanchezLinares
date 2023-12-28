@@ -1,12 +1,37 @@
 ---
-title: "DJA"
-description: "Which factors are driving price and guest satisfaction? Can we predict airbnb prices?"
+title: "A Data Justice Project"
+description: "Understanding the Invisibility and Misrepresentation of Transgender People in Official Statistics"
 image: featured.png
 image-alt: quizgrader logo
 categories:
-  - Shiny
-  - Data Analysis
+  - Research
+  - Data Justice
 about:
   template: solana
   image: featured.png
 ---
+
+
+Data invisibility is a pressing societal issue, leaving certain groups excluded and misrepresented, which distorts our social understanding and perpetuates stereotypes. The lack of transgender representation in official datasets is a clear example of this, impacting policies and societal perceptions. Despite efforts for data justice, transgender data remains scarce in surveys, limiting our grasp of LGBTQI+ experiences.
+
+In my project, I tackle **two primary research questions**: 
+
+**-** What are the key challenges and considerations in accurately representing transgender individuals within official datasets?
+
+**-** What is the current state of data representation efforts on the transgender population, who is driving these initiatives, and why are they significant?
+
+I conducted qualitative research, delving into literature reviews and using RStudio for data analysis on SOGI-related collection in federal surveys.
+
+The findings shed light on three critical hurdles in collecting transgender data: *limitations in self-identification methods, privacy concerns, and the need to build trust*. Surveys' fixed categories often fail to capture the fluidity of gender identity, and privacy risks loom large amidst changing legislation impacting LGBTQ rights. Addressing these issues requires more inclusive methods, like write-in responses, alongside stringent privacy safeguards and community collaborations to foster trust.
+
+Driving these data collection efforts are civil-society organizations and academia, leading responsible initiatives for gender minorities. Comprehensive SOGI data is indispensable for understanding disparities, enhancing well-being, and crafting evidence-based policies.
+
+Next steps for this project include incorporating the findings from the study into the report being developed for the Center for Global Health Equity at the University of Virginia. Additionally, accessing and exploring wider data sources is key to expanding the findings of this study, hoping that it will contribute to global conversation about SOGI data collection and responsible data science.
+
+
+
+**Products**
+
+- [Slides](https://drive.google.com/file/d/13oByViFiUvcAZyDPckYESZwUR73olDmM/view?usp=sharing)
+
+- [Poster](https://drive.google.com/file/d/1NqRxn_s9GjSDRA8v70mMe_fDuNUksbWf/view?usp=sharing)

@@ -1,12 +1,25 @@
 ---
-title: "Predoc"
-description: "Which factors are driving price and guest satisfaction? Can we predict airbnb prices?"
+title: "The Highway to Hell: America’s Interstate System as an Agent of Dampening Social Mobility"
+description: "An emperical research project using bid data to solve economic problems"
 image: featured.png
 image-alt: quizgrader logo
 categories:
-  - Shiny
+  - Research
+  - Statistical Modeling
   - Data Analysis
 about:
   template: solana
   image: featured.png
 ---
+
+
+This paper explores the potential consequences of residing near United States highways on social mobility, focusing on air pollution, job density, and absolute mobility. Investigating major cities within the U.S., the research employs a multiple regression analysis using the Opportunity Atlas and Social Capital data libraries to gauge the significance of highways in shaping mobility prospects. Findings reveal that highway proximity can hinder upward mobility due to factors like pollution exposure and limited resource access. Through this exploration, the paper sheds light on the multifaceted effects of highways, offering insights into their role in perpetuating socioeconomic disparities.
+
+I worked on this study under the guidance of Prof. Bruich from the Harvard University Department of Economics, and in collaboration with Ruhama Baruda, Sarah Hassan, Angela Hilliard and Cady Ngo. 
+
+
+
+**Products**
+
+- [Report](https://drive.google.com/file/d/18xY1V8NsxIxR3uBhFl4oHntkL8utvaVp/view?usp=sharing)
+- [Poster](https://drive.google.com/file/d/1sPxm4bhPAAPJC3XjDqox9aaQcgPoxbHO/view?usp=sharing)
