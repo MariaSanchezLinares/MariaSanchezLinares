@@ -1,1 +1,30 @@
-/* css styles */
+/* Navbar styling */
+.navbar {
+    background-color: #D8BFD8; /* Main purple */
+    border-bottom: 2px solid #4b0082; /* Optional darker border */
+}
+
+.navbar a {
+    color: #4b0082 !important;
+    text-decoration: none;
+}
+
+.navbar a:hover {
+    color: #d4bfff; /* Light purple on hover */
+}
+
+/* Ensure dropdown menus match the style */
+.dropdown-menu {
+    background-color: #D8BFD8; /* Match navbar color */
+    border-color: #4b0082; /* Optional border for dropdown */
+}
+
+.dropdown-item {
+    color: white !important;
+}
+
+.dropdown-item:hover {
+    background-color: #4b0082; /* Darker purple for hover */
+    color: #ffffff !important;
+}
+

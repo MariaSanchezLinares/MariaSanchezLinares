@@ -61,5 +61,11 @@
   },
   "projects/predoc_project/predoc.qmd": {
     "predoc.html": "959b9286"
+  },
+  "cv/CV.qmd": {
+    "CV.html": "c0768605"
+  },
+  "cv/maria_cv.qmd": {
+    "maria_cv.html": "34d75afc"
   }
 }

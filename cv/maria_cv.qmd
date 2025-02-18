@@ -1,0 +1,11 @@
+---
+title: ""
+format: html
+---
+
+## Resume
+
+<embed src="Maria Sanchez - CV 2025.pdf" type="application/pdf" width="100%" height="700px" />
+<p style="text-align: center;">
+  <a href="Maria Sanchez - CV 2025.pdf" download> Download Resume (PDF)</a>
+</p>
