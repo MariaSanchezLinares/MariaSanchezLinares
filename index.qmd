@@ -4,18 +4,13 @@ about:
   id: intro-heading
   template: trestles
   image: images/profilepic.jpg
-  links:
-    - icon: github
-      href: https://github.com/yourusername
-    - icon: linkedin
-      href: https://www.linkedin.com/in/maria-sanchez-linares-b6733b216
-    - icon: envelope
-      href: mailto:msanche2@macalester.edu
+toc: false
 ---
 
 ::: {#intro-heading}
 
-# María C. Sánchez Linares
+# <span style="color: #4b0082; font-size: 30px; ">Maria Celeste Sanchez Linares</span> 
+
 
 [Pronunciation](https://namedrop.io/mariasanchezlinares)
 
@@ -25,7 +20,7 @@ She/her/ella
 
 Macalester College \| St. Paul MN <br> 
 
-B.A. in Data Science & Economics \| Sept 2021 - May 2025
+B.A. in **Data Science**, Economics Minor 
 
 :::
 
@@ -33,14 +28,4 @@ B.A. in Data Science & Economics \| Sept 2021 - May 2025
 
 I am data science and economics student largely interested in solving social and economic problems with data-based solution. I have coursework Data Analysis and Visualization, Machine Learning, Statistical Modeling, Environmental and Economic Policy. I have a foundation in data-driven research and am looking for opportunities to get hands-on work experience. I have a passion for social justice, and blending my expertise, I aim to leverage data to inform innovative solutions to real-world challenges in the business and policy-making realms.
 
-## Personal
-
-I was born and raised in Valencia, Venezuela. At the age of 18, I received a [United World College](https://www.uwc.org/about) scholarship to attend UWC Red Cross Nordic in Flekke, Norway. After finishing the International Baccalaureate diploma, I moved to Saint Paul, MN to start my undergraduate studies at Macalester College.
-
-I find joy in embracing new adventures and experiences. I am not your typical outdoors enthusiast, but I like skiing and kayaking. I also enjoy exploring new flavors through food touring and baking. 
-
-Most recently, I am preparing for my next journey. I have always loved traveling, and I am excited to be studying abroad in Málaga, Spain come spring 2024.  
-
-## Experience
-
-<embed src="Maria Sanchez - CV 2025.pdf" type="application/pdf" width="100%" height="500px" />
+ 

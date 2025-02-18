@@ -1,13 +1,5 @@
 [
   {
-    "listing": "/posts.html",
-    "items": [
-      "/posts/afrolatino_week/index.html",
-      "/posts/fed_conference/index.html",
-      "/posts/starr_hill/index.html"
-    ]
-  },
-  {
     "listing": "/projects.html",
     "items": [
       "/projects/dja_project/dja.html",

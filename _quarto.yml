@@ -12,6 +12,15 @@ website:
         text: Projects
       - href: posts.qmd
         text: CV
+    right:
+      - icon: envelope
+        href: "mailto:msanche2@macalester.edu"
+      - text: Linked
+        icon: linkedin
+        href: "https://www.linkedin.com/in/maria-sanchez-linares-b6733b216"
+      - text: Github
+        icon: github
+        href: https://github.com/yourusername
         
   page-footer:
     left: |
@@ -23,7 +32,7 @@ website:
 
 format:
   html:
-    theme: journal
+    theme: cosmo
     css: styles.css
     toc: true
 
