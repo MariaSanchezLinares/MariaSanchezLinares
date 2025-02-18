@@ -9,6 +9,8 @@ about:
       href: https://github.com/yourusername
     - icon: linkedin
       href: https://www.linkedin.com/in/maria-sanchez-linares-b6733b216
+    - icon: envelope
+      href: mailto:msanche2@macalester.edu
 ---
 
 ::: {#intro-heading}
@@ -38,7 +40,3 @@ I was born and raised in Valencia, Venezuela. At the age of 18, I received a [Un
 I find joy in embracing new adventures and experiences. I am not your typical outdoors enthusiast, but I like skiing and kayaking. I also enjoy exploring new flavors through food touring and baking. 
 
 Most recently, I am preparing for my next journey. I have always loved traveling, and I am excited to be studying abroad in Málaga, Spain come spring 2024.  
-
-## Get in touch
-
-**Email:** <a href="mailto:msanche2@macalester.edu">msanche2@macalester.edu</a></p>
