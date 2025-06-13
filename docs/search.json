@@ -53,7 +53,7 @@
     "href": "projects/lda/capstone.html",
     "title": "A Topic Modeling Analysis",
     "section": "",
-    "text": "🔗 View full interactive report\n\nThis project was completed as part of my senior capstone in Data Science at Macalester College. My goal was to combine natural language processing, political context, and data storytelling to better.\nMotivated by a deep history of ongoing complexities, this study explores how political events, economic crises, and migration trends shape media discourse. However, analyzing a large body of news articles is a challenging task. In this project, I employed topic modeling —an unsupervised machine learning technique used in natural language processing— to identify evolving narratives about Venezuela-Colombia relations as portrayed by two major newspapers El Tiempo and El Espectador, across 5,061 articles published since 2017.\n\n\n🤝 Collaborators\nNibia Becerra and Emanuel Deleon\nView slides"
+    "text": "🔗 View full report\n\nThis project was completed as part of my senior capstone in Data Science at Macalester College. My goal was to combine natural language processing, political context, and data storytelling to better.\nMotivated by a deep history of ongoing complexities, this study explores how political events, economic crises, and migration trends shape media discourse. However, analyzing a large body of news articles is a challenging task. In this project, I employed topic modeling —an unsupervised machine learning technique used in natural language processing— to identify evolving narratives about Venezuela-Colombia relations as portrayed by two major newspapers El Tiempo and El Espectador, across 5,061 articles published since 2017.\n\n\n🤝 Collaborators\nNibia Becerra and Emanuel Deleon\nView slides"
   },
   {
     "objectID": "projects/life_exp_project/life_exp.html",
@@ -67,7 +67,7 @@
     "href": "projects/stat_gen/stat_gen_portfolio.html",
     "title": "Genetics Education Site: Making Statistical Genetics Accessible",
     "section": "",
-    "text": "This site is an interactive resource I designed to explain core concepts in statistical genetics in a clear, approachable way. It covers topics like Genome-Wide Association Studies (GWAS), and multiple testing corrections—blending data science, ethical and social context, etc.\nCreated as a learning reflection exercise, this site is meant for students, researchers, or anyone curious about exploring genetics using statistics and programming tools.\n\n(Visit the website)[https://mariasanchezlinares.github.io/genetics_website.github.io/]"
+    "text": "This site is an interactive resource I designed to explain core concepts in statistical genetics in a clear, approachable way. It covers topics like Genome-Wide Association Studies (GWAS), and multiple testing corrections—blending data science, ethical and social context, etc.\nCreated as a learning reflection exercise, this site is meant for students, researchers, or anyone curious about exploring genetics using statistics and programming tools.\n\nVisit the website"
   },
   {
     "objectID": "projects/dja_project/dja.html",
