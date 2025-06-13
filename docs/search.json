@@ -53,7 +53,7 @@
     "href": "projects/lda/capstone.html",
     "title": "A Topic Modeling Analysis",
     "section": "",
-    "text": "This project was completed as part of my senior capstone in Data Science at Macalester College. My goal was to combine natural language processing, political context, and data storytelling to better understand how migration and diplomacy are framed in Colombian media over time.\n\nContext\nVenezuela and Colombia share a complex relationship shaped by decades of migration, conflict, and diplomacy. In recent years, the Venezuelan humanitarian crisis triggered a dramatic reversal in migration patterns: millions of Venezuelans have sought refuge in Colombia. Political tensions and realignments—like the 2022 election of Colombia’s first leftist president, Gustavo Petro—have also reshaped the public discourse.\n\n\nResearch Questions\n\nWhat are the dominant themes in Colombian media coverage of Venezuela–Colombia relations?\n\nHow have these narratives shifted in response to migration trends and political events?\n\n\n\nMethods\nWe collected and analyzed 5,000+ articles from two major Colombian newspapers:\n- El Tiempo (center-right)\n- El Espectador (left-leaning)\nAfter cleaning and tokenizing the text, we calculated TF-IDF scores to filter out low-importance words and applied Latent Dirichlet Allocation (LDA) to extract dominant topics across articles. Each article was assigned to a topic using gamma scores, and we used multiple metrics to validate the number of topics for interpretability.\n\n\nWhat We Found\nWe uncovered a range of themes, including:\n- Migration & Humanitarian Crisis\n- Diplomacy and Foreign Policy\n- Venezuelan and Colombian Politics\n- Security and Guerrilla Groups\n- Public Health and COVID-19\n- Environmental Degradation\n- Migrant Human Trafficking\nWe also tracked how the frequency of these topics changed over time. For instance, migration reporting surged during 2018–2020, while diplomatic coverage spiked after Petro’s election.\n\n\nWhy It Matters\nThis project highlights how media shapes and reflects national narratives during times of crisis. By using unsupervised learning to trace these patterns, we gained a better understanding of how migration and geopolitics are framed for the public.\n\n\n🤝 Collaborators\nNibia Becerra and Emanuel Deleon\nView full slides"
+    "text": "🔗 View full interactive report\n\nThis project was completed as part of my senior capstone in Data Science at Macalester College. My goal was to combine natural language processing, political context, and data storytelling to better.\nMotivated by a deep history of ongoing complexities, this study explores how political events, economic crises, and migration trends shape media discourse. However, analyzing a large body of news articles is a challenging task. In this project, I employed topic modeling —an unsupervised machine learning technique used in natural language processing— to identify evolving narratives about Venezuela-Colombia relations as portrayed by two major newspapers El Tiempo and El Espectador, across 5,061 articles published since 2017.\n\n\n🤝 Collaborators\nNibia Becerra and Emanuel Deleon\nView slides"
   },
   {
     "objectID": "projects/life_exp_project/life_exp.html",
@@ -102,14 +102,14 @@
     "href": "index.html",
     "title": "Maria Celeste Sanchez Linares",
     "section": "",
-    "text": "Pronunciation\nShe/her/ella\nResearch Analyst Assistant II @ Education Analytics\n\n\nMacalester College | St. Paul MN \nB.A. in Data Science, Economics Minor"
+    "text": "Pronunciation\nShe/her/ella\nAssistant Research Analyst II @ Education Analytics\n\n\nMacalester College | St. Paul MN \nB.A. in Data Science, Economics Minor"
   },
   {
     "objectID": "index.html#maria-celeste-sanchez-linares",
     "href": "index.html#maria-celeste-sanchez-linares",
     "title": "Maria Celeste Sanchez Linares",
     "section": "",
-    "text": "Pronunciation\nShe/her/ella\nResearch Analyst Assistant II @ Education Analytics\n\n\nMacalester College | St. Paul MN \nB.A. in Data Science, Economics Minor"
+    "text": "Pronunciation\nShe/her/ella\nAssistant Research Analyst II @ Education Analytics\n\n\nMacalester College | St. Paul MN \nB.A. in Data Science, Economics Minor"
   },
   {
     "objectID": "index.html#about-me",
