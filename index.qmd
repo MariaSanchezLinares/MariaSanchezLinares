@@ -10,6 +10,7 @@ toc: false
 ---
 
 ::: {#intro-heading}
+
 ## Maria Celeste Sanchez Linares 
 
 
@@ -17,11 +18,14 @@ toc: false
 
 She/her/ella
 
-## Education
+**Research Analyst Assistant II** @ [Education Analytics](https://www.edanalytics.org/)
+
+
+### Education
 
 Macalester College \| St. Paul MN <br> 
 
-B.A. in **Data Science**, Economics Minor 
+B.A. in Data Science, Economics Minor 
 
 :::
 
