@@ -4,6 +4,7 @@ description: "Understanding Venezuela–Colombia Relations Through Shifts in Med
 categories:
   - Independent Research
   - Machine Learning
+  - Senior Capstone
 image: featured.png
 about:
   template: solana
