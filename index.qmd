@@ -3,13 +3,14 @@ title: ""
 about:
   id: intro-heading
   template: trestles
+  image-width: 21em
+  image-shape: round
   image: images/profilepic.jpg
 toc: false
 ---
 
 ::: {#intro-heading}
-
-# <span style="color: #4b0082; font-size: 30px; ">Maria Celeste Sanchez Linares</span> 
+## Maria Celeste Sanchez Linares 
 
 
 [Pronunciation](https://namedrop.io/mariasanchezlinares)

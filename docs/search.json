@@ -32,7 +32,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\nA Data Justice Project\n\n\n\nIndependent Research\n\n\nSocial Justice\n\n\n\nUnderstanding the Invisibility and Misrepresentation of Transgender People in Official Statistics\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA Topic Modeling Analysis\n\n\n\nIndependent Research\n\n\nMachine Learning\n\n\n\nUnderstanding Venezuela–Colombia Relations Through Shifts in Media Narratives\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAirbnb Insights: a Visual Analysis\n\n\n\nShiny\n\n\n\nWhich factors are driving price and guest satisfaction? Can we predict airbnb prices?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAntimicrobial Susceptibility GWAS Replication\n\n\n\nStatistical Genetics\n\n\n\nExploring Antibiotic Resistance in Neisseria gonorrhoeae Using GWAS\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGenetics Education Site: Making Statistical Genetics Accessible\n\n\n\nStatistical Genetics\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPredicting Airbnb Prices in NYC\n\n\n\nMachine Learning\n\n\n\nUsing machine learning tools to uncover the underlying factors that dictate listing prices\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPredicting Life Expectancy: The Effect of Economic Indicators\n\n\n\nStatistical Modeling\n\n\n\nModeling economic indicators’ impact in life expectancy from 2000-2015\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe Highway to Hell: America’s Interstate System as an Agent of Dampening Social Mobility\n\n\n\nIndependent Research\n\n\nStatistical Modeling\n\n\nEconomics\n\n\n\nAn emperical research project using bid data to solve economic problems\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUniversal School Meals and Student Success\n\n\n\nIndependent Research\n\n\nStatistical Modeling\n\n\nEconomics\n\n\n\nAn econometric study of food policy and academic outcomes across U.S. public schools\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\nA Data Justice Project\n\n\n\nIndependent Research\n\n\nSocial Justice\n\n\n\nUnderstanding the Invisibility and Misrepresentation of Transgender People in Official Statistics\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA Topic Modeling Analysis\n\n\n\nIndependent Research\n\n\nMachine Learning\n\n\nSenior Capstone\n\n\n\nUnderstanding Venezuela–Colombia Relations Through Shifts in Media Narratives\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAirbnb Insights: a Visual Analysis\n\n\n\nShiny\n\n\n\nWhich factors are driving price and guest satisfaction? Can we predict airbnb prices?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAntimicrobial Susceptibility GWAS Replication\n\n\n\nStatistical Genetics\n\n\n\nExploring Antibiotic Resistance in Neisseria gonorrhoeae Using GWAS\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGenetics Education Site: Making Statistical Genetics Accessible\n\n\n\nStatistical Genetics\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPredicting Airbnb Prices in NYC\n\n\n\nMachine Learning\n\n\n\nUsing machine learning tools to uncover the underlying factors that dictate listing prices\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPredicting Life Expectancy: The Effect of Economic Indicators\n\n\n\nStatistical Modeling\n\n\n\nModeling economic indicators’ impact in life expectancy from 2000-2015\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe Highway to Hell: America’s Interstate System as an Agent of Dampening Social Mobility\n\n\n\nIndependent Research\n\n\nStatistical Modeling\n\n\nEconomics\n\n\n\nAn emperical research project using bid data to solve economic problems\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUniversal School Meals and Student Success\n\n\n\nIndependent Research\n\n\nStatistical Modeling\n\n\nEconomics\n\n\n\nAn econometric study of food policy and academic outcomes across U.S. public schools\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "projects/airbnb_project/airbnb_europe.html",
@@ -102,7 +102,14 @@
     "href": "index.html",
     "title": "Maria Celeste Sanchez Linares",
     "section": "",
-    "text": "Pronunciation\nShe/her/ella\n\n\nMacalester College | St. Paul MN \nB.A. in Data Science, Economics Minor"
+    "text": "Pronunciation\nShe/her/ella\n\n\n\nMacalester College | St. Paul MN \nB.A. in Data Science, Economics Minor"
+  },
+  {
+    "objectID": "index.html#maria-celeste-sanchez-linares",
+    "href": "index.html#maria-celeste-sanchez-linares",
+    "title": "Maria Celeste Sanchez Linares",
+    "section": "",
+    "text": "Pronunciation\nShe/her/ella"
   },
   {
     "objectID": "index.html#education",
