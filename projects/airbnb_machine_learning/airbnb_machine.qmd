@@ -1,27 +1,34 @@
 ---
-title: "Predicting AirBnb Prices in NYC"
-description: "Using Machine Learning tools to uncover the underlying factors that dictate listing prices"
-image: featured.png
-image-alt: quizgrader logo
+title: "Predicting Airbnb Prices in NYC"
+description: "Using machine learning tools to uncover the underlying factors that dictate listing prices"
+image: featured.png  
 categories:
-  - Research
   - Machine Learning
 about:
   template: solana
-  image: featured.png
+format:
+  html:
+    page-layout: article 
+    toc: true
 ---
 
-In the heart of the bustling metropolis that is New York City, a dynamic marketplace of AirBnb listings unfolds, offering a plethora of accommodations to travelers from all corners of the globe. From snug apartments in the heart of Manhattan to expansive lofts in Brooklyn, these listings not only span the spectrum in terms of location but also come with a rich array of features and amenities. I embark on a statistical exploration to uncover the underlying factors that dictate the price of these listings. This study revolved around two pivotal questions:
 
-- **Predicting Airbnb Listing Prices:** Can we forecast the price of an AirBnb listing based on its
-features?
+---
 
-- **The Anatomy of Price Differences:** What are the discerning characteristics that elevate some
-listings to a higher price bracket than others?
+In the heart of New York City’s vibrant and ever-evolving rental landscape, thousands of Airbnb listings compete for attention—ranging from compact studios in Manhattan to sprawling lofts in Brooklyn. These listings differ not just in location, but in amenities, property type, and host features.
+
+<br> This project takes a closer look at the factors behind Airbnb pricing, focusing on two key questions:
+
+- **Can we forecast the price of an AirBnb listing based on its features?**  
+- **What are the discerning characteristics that elevate some listings to a higher price bracket than others?**
 
 
+<br>  To answer these questions, I used statistical modeling and machine learning algorithms—specifically, Least Squares Regression and LASSO—to explore correlations and build predictive models. Drawing from a cleaned dataset of 5,000 listings across NYC’s five boroughs, I analyzed 23 key variables, such as number of bedrooms, host status, amenities (i.e.: gym, doorman, or TV), and neighborhood group. 
 
+---
 
-**Products**
+***📄 Report***
 
-- [Report](https://drive.google.com/file/d/1w_VnSB8WnJkChu8bEewW_M87DKTRCNiy/view?usp=sharing)
+To learn more about the methods, findings, and visualizations used in this project, view the full report below:
+
+<embed src="Report.pdf" type="application/pdf" width="100%" height="700px" />

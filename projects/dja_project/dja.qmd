@@ -1,37 +1,66 @@
 ---
 title: "A Data Justice Project"
 description: "Understanding the Invisibility and Misrepresentation of Transgender People in Official Statistics"
-image: featured.png
-image-alt: quizgrader logo
 categories:
-  - Research
-  - Data Justice
+  - Independent Research
+  - Social Justice
 about:
   template: solana
-  image: featured.png
+format:
+  html:
+    toc: true
+    toc-location: right
+    page-layout: article
 ---
 
+---
 
-Data invisibility is a pressing societal issue, leaving certain groups excluded and misrepresented, which distorts our social understanding and perpetuates stereotypes. The lack of transgender representation in official datasets is a clear example of this, impacting policies and societal perceptions. Despite efforts for data justice, transgender data remains scarce in surveys, limiting our grasp of LGBTQI+ experiences.
+Data invisibility is a pressing societal issue. When certain groups are excluded or misrepresented in datasets, it distorts our understanding of social realities and reinforces harmful stereotypes. The underrepresentation of transgender individuals in official statistics is one such gap—with real consequences for policy and public perception.
 
-In my project, I tackle **two primary research questions**: 
+<br> In this project, I explored **two primary research questions**:  
+- *What are the key challenges and considerations in accurately representing transgender individuals within official datasets?*  
+- *What is the current state of data representation efforts for transgender populations, who is driving these initiatives, and why do they matter?*
 
-**-** What are the key challenges and considerations in accurately representing transgender individuals within official datasets?
+<br> My approach involved qualitative research through literature reviews, along with data analysis using R tools focused on SOGI (Sexual Orientation and Gender Identity) variables in U.S. federal surveys. 
 
-**-** What is the current state of data representation efforts on the transgender population, who is driving these initiatives, and why are they significant?
+:::{.center}
+![Bar chart showing SOGI survey inclusion](featured.png){width=60%}
+:::
 
-I conducted qualitative research, delving into literature reviews and using RStudio for data analysis on SOGI-related collection in federal surveys.
+---
 
-The findings shed light on three critical hurdles in collecting transgender data: *limitations in self-identification methods, privacy concerns, and the need to build trust*. Surveys' fixed categories often fail to capture the fluidity of gender identity, and privacy risks loom large amidst changing legislation impacting LGBTQ rights. Addressing these issues requires more inclusive methods, like write-in responses, alongside stringent privacy safeguards and community collaborations to foster trust.
+### Key Findings
 
-Driving these data collection efforts are civil-society organizations and academia, leading responsible initiatives for gender minorities. Comprehensive SOGI data is indispensable for understanding disparities, enhancing well-being, and crafting evidence-based policies.
+- **Self-identification barriers**: Fixed-response categories often fail to capture the complexity and fluidity of gender identity.
+- **Privacy risks**: Concerns are growing due to evolving legislation that affects LGBTQ+ rights.
+- **Trust gaps**: Lack of community involvement can hinder participation and data quality.
 
-Next steps for this project include incorporating the findings from the study into the report being developed for the Center for Global Health Equity at the University of Virginia. Additionally, accessing and exploring wider data sources is key to expanding the findings of this study, hoping that it will contribute to global conversation about SOGI data collection and responsible data science.
+<br> These issues point to a need for more inclusive methods (e.g., write-in responses), robust privacy safeguards, and deeper collaboration with affected communities.
 
+---
 
+### Why It Matters
 
-**Products**
+Driving many of the positive changes in SOGI data collection are **civil society organizations and academic researchers**, who are leading responsible and ethical initiatives. Collecting comprehensive gender minority data is essential for:
 
-- [Slides](https://drive.google.com/file/d/13oByViFiUvcAZyDPckYESZwUR73olDmM/view?usp=sharing)
+- Understanding health and social disparities  
+- Advancing well-being  
+- Developing evidence-based, inclusive public policies  
 
-- [Poster](https://drive.google.com/file/d/1NqRxn_s9GjSDRA8v70mMe_fDuNUksbWf/view?usp=sharing)
+---
+
+### Next Steps
+
+I completed this study as a Research Fellow at the UVA School of Data Science under the guidance of **Professor Jess Reia**. 
+
+The findings from this project will be incorporated into a report for the **Center for Global Health Equity at the University of Virginia**. I also plan to expand this research by exploring broader datasets and contributing to the global conversation on inclusive data science and SOGI representation.
+
+---
+
+### Products
+
+#### Slides  
+<embed src="slides.pdf" type="application/pdf" width="100%" height="500px" />
+
+####  Poster  
+<embed src="poster.pdf" type="application/pdf" width="100%" height="500px" />

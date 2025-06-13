@@ -2,13 +2,13 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.57">
+<meta name="generator" content="quarto-1.6.42">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="description" content="Using Machine Learning tools to uncover the underlying factors that dictate listing prices">
+<meta name="description" content="Using machine learning tools to uncover the underlying factors that dictate listing prices">
 
-<title>Predicting AirBnb Prices in NYC – Maria Celeste Sanchez Linares</title>
+<title>Predicting Airbnb Prices in NYC – Maria Celeste Sanchez Linares</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -35,10 +35,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/quarto-html/popper.min.js"></script>
 <script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
 <link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-6bd9cfa162949bde0a231f530c97869d.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -113,7 +113,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Linked</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="https://github.com/yourusername"> <i class="bi bi-github" role="img">
+    <a class="nav-link" href="https://github.com/MariaSanchezLinares/"> <i class="bi bi-github" role="img">
 </i> 
 <span class="menu-text">Github</span></a>
   </li>  
@@ -135,35 +135,38 @@ ul.task-list li input[type="checkbox"] {
     <div class="entity-contents">
       <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Predicting AirBnb Prices in NYC</h1>
+<h1 class="title">Predicting Airbnb Prices in NYC</h1>
   <div class="quarto-categories">
-    <div class="quarto-category">Research</div>
     <div class="quarto-category">Machine Learning</div>
   </div>
   </div>
 <div>
   <div class="description">
-    Using Machine Learning tools to uncover the underlying factors that dictate listing prices
+    Using machine learning tools to uncover the underlying factors that dictate listing prices
   </div>
 </div>
 <div class="quarto-title-meta">
   </div>
 </header> 
       <div class="about-contents"><main class="content" id="quarto-document-content">
-<p>In the heart of the bustling metropolis that is New York City, a dynamic marketplace of AirBnb listings unfolds, offering a plethora of accommodations to travelers from all corners of the globe. From snug apartments in the heart of Manhattan to expansive lofts in Brooklyn, these listings not only span the spectrum in terms of location but also come with a rich array of features and amenities. I embark on a statistical exploration to uncover the underlying factors that dictate the price of these listings. This study revolved around two pivotal questions:</p>
+<hr>
+<p>In the heart of New York City’s vibrant and ever-evolving rental landscape, thousands of Airbnb listings compete for attention—ranging from compact studios in Manhattan to sprawling lofts in Brooklyn. These listings differ not just in location, but in amenities, property type, and host features.</p>
+<p><br> This project takes a closer look at the factors behind Airbnb pricing, focusing on two key questions:</p>
 <ul>
-<li><p><strong>Predicting Airbnb Listing Prices:</strong> Can we forecast the price of an AirBnb listing based on its features?</p></li>
-<li><p><strong>The Anatomy of Price Differences:</strong> What are the discerning characteristics that elevate some listings to a higher price bracket than others?</p></li>
+<li><strong>Can we forecast the price of an AirBnb listing based on its features?</strong><br>
+</li>
+<li><strong>What are the discerning characteristics that elevate some listings to a higher price bracket than others?</strong></li>
 </ul>
-<p><strong>Products</strong></p>
-<ul>
-<li><a href="https://drive.google.com/file/d/1w_VnSB8WnJkChu8bEewW_M87DKTRCNiy/view?usp=sharing">Report</a></li>
-</ul>
+<p><br> To answer these questions, I used statistical modeling and machine learning algorithms—specifically, Least Squares Regression and LASSO—to explore correlations and build predictive models. Drawing from a cleaned dataset of 5,000 listings across NYC’s five boroughs, I analyzed 23 key variables, such as number of bedrooms, host status, amenities (i.e.: gym, doorman, or TV), and neighborhood group.</p>
+<hr>
+<p><strong><em>📄 Report</em></strong></p>
+<p>To learn more about the methods, findings, and visualizations used in this project, view the full report below:</p>
+<embed src="Report.pdf" type="application/pdf" width="100%" height="700px">
 
 
 </main></div>
     </div>
-    <img src="featured.png" alt="quizgrader logo" class="about-image
+    <img src="featured.png" class="about-image
   rounded " style="width: 15em;">
   </div>
 </div>
@@ -243,8 +246,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -355,7 +356,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {

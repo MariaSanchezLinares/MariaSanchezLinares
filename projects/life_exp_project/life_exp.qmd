@@ -4,7 +4,6 @@ description: "Modeling economic indicators' impact in life expectancy from 2000-
 image: featured.png
 image-alt: quizgrader logo
 categories:
-  - Research
   - Statistical Modeling
 about:
   template: solana

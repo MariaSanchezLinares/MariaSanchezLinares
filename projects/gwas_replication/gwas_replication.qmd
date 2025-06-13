@@ -1,0 +1,40 @@
+---
+title: "Antimicrobial Susceptibility GWAS Replication"
+description: "Exploring Antibiotic Resistance in Neisseria gonorrhoeae Using GWAS"
+categories:
+  - Statistical Genetics
+image: featured.png   
+about:
+  template: solana
+format:
+  html:
+    toc: true
+    toc-location: right
+    page-layout: article
+---
+
+---
+
+### Overview
+
+This project explores key methods from the paper *“Adaptation to the cervical environment is associated with increased antibiotic susceptibility in Neisseria gonorrhoeae”* by Ma et al., showing how Genome-Wide Association Studies (GWAS) can help uncover genetic factors linked to antibiotic susceptibility in *Neisseria gonorrhoeae*, the bacterium that causes gonorrhea.
+
+### What We Did
+
+To make this research more accessible, we created a dedicated website where we:
+
+- Break down the **biology and genetics** behind *N. gonorrhoeae*
+- Explain the **GWAS methodology** used in the study
+- Walk through a **replication** of the paper’s GWAS focused on azithromycin resistance
+
+While the original paper investigates resistance to three key antibiotics—**azithromycin, ciprofloxacin, and ceftriaxone**—and explores how bacterial location within the human body affects evolution, we zoom in on one part of this dataset focusing only on azithromycin.
+
+Our goal is to illustrate how rigorous statistical genetics methods can be applied to pressing public health challenges, while providing a beginner-friendly introduction to microbial GWAS.
+
+---
+
+🔗 **[Click here to explore the full project website](https://laynajohnson.github.io/Bacteria-GWAS/)**  
+
+
+
+

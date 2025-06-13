@@ -3,10 +3,14 @@
     "listing": "/projects.html",
     "items": [
       "/projects/dja_project/dja.html",
+      "/projects/lda/capstone.html",
       "/projects/airbnb_project/airbnb_europe.html",
+      "/projects/gwas_replication/gwas_replication.html",
+      "/projects/stat_gen/stat_gen_portfolio.html",
       "/projects/airbnb_machine_learning/airbnb_machine.html",
       "/projects/life_exp_project/life_exp.html",
-      "/projects/predoc_project/predoc.html"
+      "/projects/predoc_project/predoc.html",
+      "/projects/econometrics/econometrics_paper.html"
     ]
   }
 ]

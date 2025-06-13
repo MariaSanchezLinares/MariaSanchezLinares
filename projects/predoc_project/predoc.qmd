@@ -4,22 +4,46 @@ description: "An emperical research project using bid data to solve economic pro
 image: featured.png
 image-alt: quizgrader logo
 categories:
-  - Research
+  - Independent Research
   - Statistical Modeling
-  - Data Analysis
+  - Economics
 about:
   template: solana
-  image: featured.png
+format:
+  html:
+    toc: true
+    toc-location: right
+    page-layout: article
 ---
 
+---
 
-This paper explores the potential consequences of residing near United States highways on social mobility, focusing on air pollution, job density, and absolute mobility. Investigating major cities within the U.S., the research employs a multiple regression analysis using the Opportunity Atlas and Social Capital data libraries to gauge the significance of highways in shaping mobility prospects. Findings reveal that highway proximity can hinder upward mobility due to factors like pollution exposure and limited resource access. Through this exploration, the paper sheds light on the multifaceted effects of highways, offering insights into their role in perpetuating socioeconomic disparities.
+**Can proximity to interstate highways reduce a person's chance of climbing the economic ladder?**  
+This research investigates how living near U.S. highways impacts social mobility, focusing on three key factors:
 
-I worked on this study under the guidance of Prof. Bruich from the Harvard University Department of Economics, and in collaboration with Ruhama Baruda, Sarah Hassan, Angela Hilliard and Cady Ngo. 
+- Air pollution
+- Job density
+- Absolute mobility
 
+Using data from major U.S. cities, the study applies multiple regression analysis with data from the **Opportunity Atlas** and **Social Capital Project** to assess the relationship between highway proximity and economic outcomes.
 
+### Key Findings
 
-**Products**
+- Living near highways is linked to **lower upward mobility**, driven by pollution exposure and reduced access to key resources.
+- Interstate systems may play a role in **perpetuating socioeconomic disparities**, rather than bridging opportunity gaps.
 
-- [Report](https://drive.google.com/file/d/18xY1V8NsxIxR3uBhFl4oHntkL8utvaVp/view?usp=sharing)
-- [Poster](https://drive.google.com/file/d/1sPxm4bhPAAPJC3XjDqox9aaQcgPoxbHO/view?usp=sharing)
+---
+
+### 🤝 Research Collaboration
+
+I conducted this study during the *PREDOC* program under the guidance of **Professor Bruich** from the **Harvard University Department of Economics**, in collaboration with **Ruhama Baruda, Sarah Hassan, Angela Hilliard**, and **Cady Ngo**.
+
+---
+
+### Project Materials
+
+-   **Full Report** 
+<embed src="https://drive.google.com/file/d/18xY1V8NsxIxR3uBhFl4oHntkL8utvaVp/preview" type="application/pdf" width="100%" height="700px" />
+
+-   **Research Poster**  
+<embed src="https://drive.google.com/file/d/1sPxm4bhPAAPJC3XjDqox9aaQcgPoxbHO/preview" type="application/pdf" width="100%" height="700px" />

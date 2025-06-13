@@ -67,5 +67,17 @@
   },
   "cv/maria_cv.qmd": {
     "maria_cv.html": "34d75afc"
+  },
+  "projects/gwas_replication/gwas_replication.qmd": {
+    "gwas_replication.html": "dd90124e"
+  },
+  "projects/stat_gen/stat_gen_portfolio.qmd": {
+    "stat_gen_portfolio.html": "b5b824ad"
+  },
+  "projects/lda/capstone.qmd": {
+    "capstone.html": "f1fd2004"
+  },
+  "projects/econometrics/econometrics_paper.qmd": {
+    "econometrics_paper.html": "fdf30a3f"
   }
 }

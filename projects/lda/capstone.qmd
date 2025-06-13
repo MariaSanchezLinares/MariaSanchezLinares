@@ -1,0 +1,55 @@
+---
+title: "A Topic Modeling Analysis"
+description: "Understanding Venezuela–Colombia Relations Through Shifts in Media Narratives"
+categories:
+  - Independent Research
+  - Machine Learning
+image: featured.png
+about:
+  template: solana
+format:
+  html:
+    toc: true
+    toc-location: right
+    page-layout: article
+---
+
+---
+
+This project was completed as part of my **senior capstone in Data Science** at Macalester College. My goal was to combine natural language processing, political context, and data storytelling to better understand how migration and diplomacy are framed in Colombian media over time.
+
+#### Context  
+Venezuela and Colombia share a complex relationship shaped by decades of migration, conflict, and diplomacy. In recent years, the Venezuelan humanitarian crisis triggered a dramatic reversal in migration patterns: millions of Venezuelans have sought refuge in Colombia. Political tensions and realignments—like the 2022 election of Colombia’s first leftist president, Gustavo Petro—have also reshaped the public discourse.
+
+#### Research Questions  
+- What are the dominant themes in Colombian media coverage of Venezuela–Colombia relations?  
+- How have these narratives shifted in response to migration trends and political events?
+
+#### Methods  
+We collected and analyzed **5,000+ articles** from two major Colombian newspapers:  
+- *El Tiempo* (center-right)  
+- *El Espectador* (left-leaning)  
+
+After cleaning and tokenizing the text, we calculated **TF-IDF scores** to filter out low-importance words and applied **Latent Dirichlet Allocation (LDA)** to extract dominant topics across articles. Each article was assigned to a topic using gamma scores, and we used multiple metrics to validate the number of topics for interpretability.
+
+#### What We Found  
+We uncovered a range of themes, including:  
+- **Migration & Humanitarian Crisis**  
+- **Diplomacy and Foreign Policy**  
+- **Venezuelan and Colombian Politics**  
+- **Security and Guerrilla Groups**  
+- **Public Health and COVID-19**  
+- **Environmental Degradation**  
+- **Migrant Human Trafficking**
+
+We also tracked how the frequency of these topics changed over time. For instance, migration reporting surged during 2018–2020, while diplomatic coverage spiked after Petro’s election.
+
+#### Why It Matters  
+This project highlights how media shapes and reflects national narratives during times of crisis. By using unsupervised learning to trace these patterns, we gained a better understanding of how migration and geopolitics are framed for the public.
+
+#### 🤝 Collaborators  
+Nibia Becerra and Emanuel Deleon  
+
+**View full slides**
+<embed src="slides.pdf" type="application/pdf" width="100%" height="500px" />
+

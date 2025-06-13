@@ -26,6 +26,9 @@ B.A. in **Data Science**, Economics Minor
 
 ## About me
 
-I am data science and economics student largely interested in solving social and economic problems with data-based solution. I have coursework Data Analysis and Visualization, Machine Learning, Statistical Modeling, Environmental and Economic Policy. I have a foundation in data-driven research and am looking for opportunities to get hands-on work experience. I have a passion for social justice, and blending my expertise, I aim to leverage data to inform innovative solutions to real-world challenges in the business and policy-making realms.
+I’m a data scientist with a background in economics and a strong interest in interdisciplinary research that brings together statistical thinking and social impact. My academic journey at Macalester College along with a diverse research trajectory sparked a passion for using quantitative tools to explore complex questions. Thus, I have had the opportunity to engage in multiple projects in the areas of education, health equity, economics and finance, media, and even microbial genetics.
+
+Across my work, I’ve found that what excites me most is diving into unfamiliar questions, learning new tools or methods along the way, and finding creative solutions.
+
 
  

@@ -1,0 +1,25 @@
+---
+title: "Genetics Education Site: Making Statistical Genetics Accessible"
+description: ""
+categories:
+  - Statistical Genetics
+image: featured.png   
+about:
+  template: solana
+format:
+  html:
+    toc: true
+    toc-location: right
+    page-layout: article
+---
+
+---
+
+This site is an interactive resource I designed to explain core concepts in statistical genetics in a clear, approachable way. It covers topics like Genome-Wide Association Studies (GWAS), and multiple testing corrections—blending data science, ethical and social context, etc.
+
+Created as a learning reflection exercise, this site is meant for students, researchers, or anyone curious about exploring genetics using statistics and programming tools.
+
+---
+
+**(Visit the website)[https://mariasanchezlinares.github.io/genetics_website.github.io/]**
+
