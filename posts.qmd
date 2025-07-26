@@ -11,10 +11,10 @@ format:
 
 ## Experiences
 
-<embed src="Standard Resume copy.pdf" type="application/pdf" width="100%" height="700px" />
+<embed src="Sanchez Linares, Maria - Standard Resume.pdf" type="application/pdf" width="100%" height="700px" />
 
 <p style="text-align: center;">
 
-<a href="Standard Resume copy.pdf" download> Download Resume (PDF)</a>
+<a href="Sanchez Linares, Maria - Standard Resume.pdf" download> Download Resume (PDF)</a>
 
 </p>
